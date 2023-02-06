@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "via": "1.1 fly.io",
+    "age": "242706",
+    "cf-ray": "7316543bcb9b6293-ORD",
+    "cf-cache-status": "HIT",
+    "last-modified": "Sat, 26 Oct 1985 08:15:00 GMT",
+    "content-type": "application/javascript; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "etag": "W/\"1ae79-Zo4Eh1DsCABg+SU3Jr9pNzjo45w\"",
+    "date": "Wed, 27 Jul 2022 15:15:11 GMT",
+    "access-control-allow-origin": "*",
+    "fly-request-id": "01G8RW4F71MA12WAH7T7EAJE6C-chi",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "cache-control": "public, max-age=31536000"
+  },
+  "url": "https://unpkg.com/esbuild-wasm@0.14.39/esm/browser.js",
+  "now": {
+    "secs_since_epoch": 1658934911,
+    "nanos_since_epoch": 364915706
+  }
+}

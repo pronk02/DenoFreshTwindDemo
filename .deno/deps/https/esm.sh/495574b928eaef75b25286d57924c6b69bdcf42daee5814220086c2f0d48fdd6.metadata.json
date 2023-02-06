@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "cf-ray": "7316543f2a458114-ORD",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Mon, 11 Jul 2022 23:04:45 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=wfbN2kxwx%2F4%2BmQVP5lYFn56VzYnlRQqmpFLxC6QHPuuuJOw64ctLyB16uB4IxMT0BOb6OVmhW82zDD33BbNcxP0VHFN5C0ISs69vlCAFzNAf3EjUNo4wfGM%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-cache-status": "DYNAMIC",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "content-length": "425",
+    "accept-ranges": "bytes",
+    "date": "Wed, 27 Jul 2022 15:15:12 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Origin"
+  },
+  "url": "https://esm.sh/v87/preact-render-to-string@5.2.0/X-ZC9wcmVhY3RAMTAuOC4y/src/index.d.ts",
+  "now": {
+    "secs_since_epoch": 1658934912,
+    "nanos_since_epoch": 126909728
+  }
+}

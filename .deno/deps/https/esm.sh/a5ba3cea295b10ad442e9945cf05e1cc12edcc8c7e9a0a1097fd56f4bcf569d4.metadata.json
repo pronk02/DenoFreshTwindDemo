@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "content-type": "text/javascript; charset=utf-8",
+    "age": "1352649",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "HIT",
+    "date": "Wed, 27 Jul 2022 15:15:11 GMT",
+    "last-modified": "Mon, 11 Jul 2022 23:02:46 GMT",
+    "vary": "Origin, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=s1YwjtXZ97nZm0ItgzD4CA9h9DGrLcmbLNC5Ev7BWt%2Bd1r5YSP9Cz6mFhueLaRYhz3AFWyB3VromZZ5VnyTUN8ODXF58bpvyXXwCiMMcwoKcrGF5F8OWLmI%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "7316543d4e0d8114-ORD",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+  },
+  "url": "https://esm.sh/v87/twind@0.16.17/deno/twind.js",
+  "now": {
+    "secs_since_epoch": 1658934911,
+    "nanos_since_epoch": 593058599
+  }
+}

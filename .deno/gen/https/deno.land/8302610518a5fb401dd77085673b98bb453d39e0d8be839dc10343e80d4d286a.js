@@ -1,0 +1,3 @@
+// Copyright 2020 the oak authors. All rights reserved. MIT license.
+export { extname } from "https://deno.land/std@0.107.0/path/mod.ts";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvbWVkaWFfdHlwZXNAdjIuMTAuMi9kZXBzLnRzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIENvcHlyaWdodCAyMDIwIHRoZSBvYWsgYXV0aG9ycy4gQWxsIHJpZ2h0cyByZXNlcnZlZC4gTUlUIGxpY2Vuc2UuXG5cbmV4cG9ydCB7IGV4dG5hbWUgfSBmcm9tIFwiaHR0cHM6Ly9kZW5vLmxhbmQvc3RkQDAuMTA3LjAvcGF0aC9tb2QudHNcIjtcbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxvRUFBb0U7QUFFcEUsU0FBUyxPQUFPLFFBQVEsMkNBQTJDLENBQUMifQ==

@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "age": "604274",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=dmCJ3JTq9gli0GJwjKFgcYZOv7ZVQ3yZ%2B6E9gVvESSH3CbTbwkqIUOt7Z5TaWTrHPpAIf3W0Y2sgr%2FX%2FYxuiolt482278qId0xZsf5n7hi%2FjYhsq6qo3rV0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "7316543ddf448114-ORD",
+    "date": "Wed, 27 Jul 2022 15:15:11 GMT",
+    "cf-cache-status": "HIT",
+    "vary": "Origin, Accept-Encoding",
+    "content-type": "text/javascript; charset=utf-8",
+    "server": "cloudflare",
+    "last-modified": "Mon, 11 Jul 2022 23:02:46 GMT",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://esm.sh/v87/preact@10.8.2/deno/hooks.js",
+  "now": {
+    "secs_since_epoch": 1658934911,
+    "nanos_since_epoch": 839706982
+  }
+}
